@@ -1,4 +1,9 @@
 *
 !.gitignore
 !Readme.md
-
+!config.cfg
+!theo.cfg
+!theo_binds.cfg
+!theo_binds_map.cfg
+!theo_clutch_pgm.cfg
+!theo_script_defaults.cfg
